@@ -1,3 +1,11 @@
+/*==================== LOADER ====================*/
+window.addEventListener('load', () => {
+  const loader = document.querySelector('.loader-wrapper');
+  setTimeout(() => {
+    loader.classList.add('fade-out');
+  }, 1000);
+});
+
 /*==================== DARK LIGHT THEME ====================*/
 const themeButton = document.getElementById('theme-button')
 const darkTheme = 'dark-theme'
@@ -26,4 +34,39 @@ themeButton.addEventListener('click', () => {
     // We save the theme and the current icon that the user chose
     localStorage.setItem('selected-theme', getCurrentTheme())
     localStorage.setItem('selected-icon', getCurrentIcon())
-}) 
+})
+
+/*==================== SCROLL REVEAL ANIMATION ====================*/
+const sr = ScrollReveal({
+    origin: 'top',
+    distance: '60px',
+    duration: 2500,
+    delay: 400,
+    // reset: true
+})
+
+sr.reveal(`.home_data, .home_img, .about_img, .about_data, .skills_content, .qualification_content, .portfolio_content, .contact_content`, {interval: 100})
+
+/*==================== CURSOR ANIMATION ====================*/
+const cursor = document.createElement('div');
+cursor.className = 'cursor';
+document.body.appendChild(cursor);
+
+const cursorInner = document.createElement('div');
+cursorInner.className = 'cursor-inner';
+document.body.appendChild(cursorInner);
+
+document.addEventListener('mousemove', (e) => {
+    cursor.style.left = e.clientX + 'px';
+    cursor.style.top = e.clientY + 'px';
+    cursorInner.style.left = e.clientX + 'px';
+    cursorInner.style.top = e.clientY + 'px';
+});
+
+/*==================== TYPING ANIMATION ====================*/
+const typed = new Typed('.typed', {
+    strings: ['Mern Stack Developer', 'Web Developer', 'Cloud Computing Enthusiast'],
+    typeSpeed: 100,
+    backSpeed: 60,
+    loop: true
+}); 
