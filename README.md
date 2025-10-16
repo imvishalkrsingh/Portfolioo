@@ -1,27 +1,34 @@
 # Portfolioo
 
-Welcome to my portfolio repository! This is where I showcase my projects, skills, and experiences.
+Welcome to my portfolio repository! 🌟  
+Here, I showcase my **projects, experiences, and creative work** that reflect my journey as an educator, developer, and lifelong learner.  
 
-Live Now : https://imvishalkrsingh.github.io/Portfolioo/
-
-## About Me
-
-Hey there,👋 I'm Vishal a 23-year-old CSE undergrad who is passionate about Software Development, UI/UX Design and Product Management. Currently, I'm pursuing my career as a Master in computer Application with the specialization in Cloud Computing from Sage University Bhopal.
-
-In this repository, you'll find a collection of my work, projects, and accomplishments. Feel free to explore and get in touch if you'd like to collaborate or have any questions!
-
-I'm always learning and exploring new technologies, so this list continues to grow!
-
-## Contact Information
-
-- Email: your@email.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/imvishalkrsingh/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/imvishalkrsingh/)
-- Instagram: [@YourInstagramHandle](https://www.instagram.com/imvishalkrsingh/)
-
-Please feel free to reach out to me through any of the provided contact methods. I'd love to connect and collaborate with you!
+🔗 **Live Now:** [imvishalkrsingh.github.io/Portfolioo](https://imvishalkrsingh.github.io/Portfolioo/)
 
 ---
 
-Thank you for visiting my portfolio repository! 🚀
+## 👨‍🏫 About Me
 
+Hey there! 👋 I'm **Vishal Singh**, an **Assistant Professor in Computer Science** and a passionate learner who loves exploring the intersection of **technology, creativity, and education**.  
+
+I hold a **Master of Computer Applications (MCA)** degree with a specialization in **Cloud Computing** from **SAGE University, Bhopal**.  
+My interests include **Software Development**, **UI/UX Design**, and **Cloud Technologies** — areas where innovation meets problem-solving.  
+
+In this repository, you'll find a collection of my **projects, ideas, and academic work**.  
+I'm always learning, experimenting, and sharing knowledge to inspire others on their tech journey. 🌱  
+
+---
+
+## 📬 Contact Information
+
+- **Email:** [vishalkumarsingh162@gmail.com](mailto:vishalkumarsingh162@gmail.com)  
+- **LinkedIn:** [Vishal Kumar Singh](https://www.linkedin.com/in/imvishalkrsingh/)  
+- **Twitter:** [@imvishalkrsingh](https://twitter.com/imvishalkrsingh/)  
+- **Instagram:** [@imvishalkrsingh](https://www.instagram.com/imvishalkrsingh/)
+
+Feel free to connect — I’d love to **collaborate, learn, or simply exchange ideas**. 💬  
+
+
+### 🪶 Thank You for Visiting!
+Thanks for stopping by my portfolio repository!  
+Your feedback, suggestions, and collaborations are always welcome. 🚀  
